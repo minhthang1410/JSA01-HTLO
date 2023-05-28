@@ -1,0 +1,1 @@
+lấy thông tin người dùng nhập ở ô input rồi so sánh với tên sản phẩm trên trang web nếu từ khoá nó nằm trong tên sản phẩm thì sản phẩm đó sẽ hiện ra (bỏ class hide) ngược lại thì ẩn đi (thêm class hide)
